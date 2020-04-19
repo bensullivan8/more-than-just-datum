@@ -6,28 +6,20 @@ header {
   background-color: #ddd;
 }
 
-main {
-  background-color: #efefef;
-}
-
 .logo {
   width: 200px;
 }
 
 .search {
   background-color: #fff;
-  border: 1px solid #000;
-  width: 1.5rem;
+  width: 100%;
   display: inline-block;
   position: relative;
-  width: 100%;
 }
 
 .search input {
   background-color: #fff;
-  display: block;
   width: 100%;
-  border: 1px solid #000;
 }
 
 .search img {
