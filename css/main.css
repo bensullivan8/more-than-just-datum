@@ -2,7 +2,7 @@ html {
   font-family: "IBM Plex Sans", sans-serif;
 }
 
-header {
+.header {
   background-color: #ddd;
 }
 
@@ -24,7 +24,7 @@ header {
 
 .search img {
   position: absolute;
-  top: 3px;
+  top: 10%;
   left: 5px;
   width: 20px;
 }
