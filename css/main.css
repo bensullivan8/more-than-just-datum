@@ -14,19 +14,11 @@ html {
   background-color: #fff;
   width: 100%;
   display: inline-block;
-  position: relative;
 }
 
 .search input {
   background-color: #fff;
   width: 100%;
-}
-
-.search img {
-  position: absolute;
-  top: 10%;
-  left: 5px;
-  width: 20px;
 }
 
 table {
@@ -39,4 +31,8 @@ table {
 
 .nearest-wrap {
   background-color: #efefef;
+}
+
+.search-icon {
+  padding-left: 2rem;
 }
