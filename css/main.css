@@ -12,13 +12,15 @@ html {
 
 .search {
   background-color: #fff;
-  width: 100%;
-  display: inline-block;
 }
 
 .search input {
   background-color: #fff;
   width: 100%;
+}
+
+.relative {
+  padding-left: 1rem;
 }
 
 table {
